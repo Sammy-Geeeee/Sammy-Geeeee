@@ -1,7 +1,7 @@
 - Hi, I’m @Sammy-Geeeee (Sam). I live in Auckland, New Zealand. 
 I am currently working as a Mechanical Engineer.  
 
-- I'm interested in Machine Learning and Data Analysis. Any type of Software based Automation is also very interesting to me, whether your automating boring tasks at work or automating the functions of an entire factory,
+- I'm interested in Machine Learning and Data Analysis. Any type of Software based Automation is also very interesting to me, whether you're automating boring tasks at work or automating the functions of an entire factory,
   I'd like to make the switch to a more software and development related field, and am slowly building a portfolio of projects here. 
   
 - I’m currently learning Python from Al Sweigart's book "Automate the Boring Stuff' and Amit Saha's "Doing Math With Python".  
