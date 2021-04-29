@@ -8,7 +8,7 @@
 - I’m currently learning about Algorithms in Python from Bradford Tuckfield's 'Dive into Algorithms book.  
   I've also previously read Al Sweigart's book "Automate the Boring Stuff' and Amit Saha's "Doing Math With Python".  
   
-  I would also like to learn how to code in C# and learn about SQL databases, as it shows up a lot in the job listings I see.  
+  I would also like to learn how to code in C#, and learn about SQL databases. Knowing these would expand my programming knowledge as well as help me land a job as they show up in a lot of listings.
   Coming from an Engineering background I have especially enjoyed doing math with Python as we learnt how to do all of this by hand at uni and I didn't know it was this simple to program a computer to do it for you.  
   
   
