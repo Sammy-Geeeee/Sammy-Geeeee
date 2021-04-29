@@ -7,8 +7,10 @@
   
 - I’m currently learning about Algorithms in Python from Bradfor Tuckfield's 'Dive into Algorithms book.  
   I've also previously read Al Sweigart's book "Automate the Boring Stuff' and Amit Saha's "Doing Math With Python".  
-  Coming from an Engineering background I have especially enjoyed doing math with Python as we learnt how to do all of this by hand at uni and I didn't know it was this simple to program a computer to do it for you.  
+  
   I would also like to learn how to code in C# and learn about SQL databases, as it shows up a lot in the job listings I see.  
+  Coming from an Engineering background I have especially enjoyed doing math with Python as we learnt how to do all of this by hand at uni and I didn't know it was this simple to program a computer to do it for you.  
+  
   
 - You can reach me through:  
   My email:     Sam.Givan@outlook.com                         (This is your best bet)  
