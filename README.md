@@ -1,4 +1,4 @@
-- Hi, I’m @Sammy-Geeeee (Sam). I live in Auckland, New Zealand.  
+Hi, I’m @Sammy-Geeeee (Sam). I live in Auckland, New Zealand.  
   I am currently working as a Mechanical Engineer.  
   
   I'd like to make the switch to a more software and development related field, and am building a portfolio of projects here.  
